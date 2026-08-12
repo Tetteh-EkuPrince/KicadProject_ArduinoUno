@@ -1,0 +1,104 @@
+footprint Y2 Crystal:Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm_HandSoldering @ 171.28,99.37 layer "F.Cu" pads (1=Net-(U4-XTAL2{slash}PB7), 2=GNDD, 3=Net-(U4-XTAL1{slash}PB6)) uid 0296a090-9e5e-438a-96a3-151b56b516cf
+footprint C5 Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder @ 158.4675,96.12 layer "F.Cu" pads (1=Net-(U3-~{HWB}{slash}PD7), 2=Net-(D2-A)) uid 049f4fe0-4dab-405e-a150-f9fabf31b720
+footprint RN3A1 Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder @ 139.9675,87.4 layer "F.Cu" pads (1=/D-, 2=/RD-) uid 13aedc6a-6461-4a59-993e-37078b2f6b57
+footprint J5 Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical @ 142.3925,81.87 rot 90 layer "F.Cu" pads (1=Net-(J5-Pin_1), 2=+5V, 3=Net-(D3-A), 4=Net-(J5-Pin_4), 5=Net-(J5-Pin_5), 6=GNDD) uid 20917ad7-0c3f-4d01-b865-5c6f5f27c9de
+footprint J3 Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical @ 194.58,96.41 rot 180 layer "F.Cu" pads (1=Net-(IOH1-Pin_5), 2=+5V, 3=Net-(IOH1-Pin_6), 4=Net-(IOH1-Pin_4), 5=Net-(D2-A), 6=GNDD) uid 20ce300e-dd43-43c0-8052-b6d811e2faf5
+footprint J2 Connector_BarrelJack:BarrelJack_Horizontal @ 138.08,115.9125 layer "F.Cu" pads (1=Net-(D4-A), 2=GNDD) uid 220236f2-39b2-454e-b434-90d07ba78103
+footprint G*** LOGO @ 168.08,89.12 layer "F.Cu" pads () uid 24d9c143-6351-40f4-aff3-6703a1d9adee
+footprint RV2 Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder @ 147.4325,94.6 layer "F.Cu" pads (1=/D+, 2=Net-(J1-Shield)) uid 369df529-e6e3-4ac6-a5ce-46f1e278cdd8
+footprint J1 Connector_USB:USB_B_TE_5787834_Vertical @ 132.58,88.87 rot -90 layer "F.Cu" pads (1=/XUSB, 2=/D-, 3=/D+, 4=Net-(GND1-A), SH=Net-(J1-Shield)) uid 3826816a-5112-4ef0-a8cf-69ab808a8f85
+footprint U5 Package_SO:MSOP-8_3x3mm_P0.65mm @ 155.83,86.62 layer "F.Cu" pads (4=GNDD, 5=SCK, 6=/13, 7=/13, 8=+5V) uid 4b2212c3-6b11-4a54-82c1-7095596fc418
+footprint Y1 Crystal:Crystal_HC49-4H_Vertical @ 147.39,98.12 layer "F.Cu" pads (1=Net-(U3-PC0{slash}XTAL2), 2=Net-(U3-XTAL1)) uid 4c13ea44-eafd-4915-9dfe-99ebca488139
+footprint GREEN1 LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder @ 187.805,87.37 layer "F.Cu" pads (1=GNDD, 2=Net-(GREEN1-A)) uid 533cfdc5-816c-45c9-a0ca-cbc61a623bc4
+footprint J8 Connector_PinHeader_1.27mm:PinHeader_2x02_P1.27mm_Vertical @ 146.395,84.765 layer "F.Cu" pads (1=Net-(J8-Pin_1), 2=Net-(J8-Pin_2), 3=Net-(J8-Pin_3), 4=Net-(J8-Pin_4)) uid 59ea95f8-d682-4af1-848d-430ed1067e31
+footprint F1 MF-MSMF050-2:FUSM4632X85 @ 134.08,99.37 rot -90 layer "F.Cu" pads (1=/XUSB, 2=USBVCC) uid 5abe642f-0015-4eab-90a8-61f235d6e555
+footprint RN3D1 Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder @ 139.6475,92.37 layer "F.Cu" pads (1=/D+, 2=/RD+) uid 5ac447a3-8414-4224-bdde-5e3bc5ab56cd
+footprint TX1 LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder @ 155.805,89.62 layer "F.Cu" pads (1=Net-(TX1-K), 2=Net-(TX1-A)) uid 5eb5f8c0-885a-4764-a65e-3a0fa6ceb21d
+footprint RESET1 Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm @ 158.43,98.12 layer "F.Cu" pads (1=Net-(D2-A), 2=Net-(D2-A)) uid 60626743-2a6a-4114-8216-0a0c536cdb3a
+footprint C1 Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder @ 144.83,107.0075 rot 90 layer "F.Cu" pads (1=+5V, 2=GNDD) uid 673a4e0e-561a-4690-a047-7aa7ca2bb184
+footprint C9 Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder @ 142.9675,94.37 layer "F.Cu" pads (1=GNDD, 2=Net-(U3-PC0{slash}XTAL2)) uid 67750da7-088d-4157-a9ad-b5c9d851f680
+footprint U5 Package_SO:MSOP-8_3x3mm_P0.65mm @ 160.08,101.37 layer "F.Cu" pads () uid 6b4edc1c-9c5e-4adb-b17b-bd524610b21f
+footprint R1 Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder @ 149.9325,94.6 layer "F.Cu" pads (1=Net-(U3-PC0{slash}XTAL2), 2=Net-(U3-XTAL1)) uid 6c53203b-c977-4651-8fb5-e4ebb6b88117
+footprint C6 Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder @ 168.7175,113.87 layer "F.Cu" pads (1=+5V, 2=GNDD) uid 6de4c378-6e78-49f8-9fdc-090dd2c2018e
+footprint D2 Diode_SMD:D_SOD-123 @ 188.83,93.72 rot 90 layer "F.Cu" pads (1=+5V, 2=Net-(D2-A)) uid 6ec60f2d-ae0f-41a8-8a01-a7f77be86175
+footprint C3 Capacitor_SMD:C_01005_0402Metric @ 152.58,107.095 rot -90 layer "F.Cu" pads (1=Net-(U6-VOUT), 2=GNDD) uid 6f6eb2e0-19c9-4e45-9cb4-8034ae9e5adc
+footprint R2 Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder @ 171.0125,102.37 layer "F.Cu" pads (1=Net-(U4-XTAL2{slash}PB7), 2=Net-(U4-XTAL1{slash}PB6)) uid 71f17231-2547-4be2-94e5-87883d42fc50
+footprint U7 Package_SO:MSOP-8_3x3mm_P0.65mm @ 140.4,89.8 layer "F.Cu" pads (5=/CMP, 6=+3V3(2), 7=Net-(T1-G)) uid 8b830cfb-cc15-453c-9776-43ad6159b6df
+footprint L2 LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder @ 156.055,83.62 layer "F.Cu" pads (1=GNDD, 2=Net-(L2-A)) uid 8bf8e048-55b9-428b-acd5-1cb1f1e4b7f4
+footprint D4 Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal @ 150.2,120.87 rot 180 layer "F.Cu" pads (1=Net-(D4-K), 2=Net-(D4-A)) uid 8dfd26d9-fb76-4f4d-9e5c-3544fc1b6f4b
+footprint RV3 Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder @ 152.1825,94.6 layer "F.Cu" pads (1=/D-, 2=Net-(J1-Shield)) uid 9075672f-7104-4baa-b393-709b55de36d5
+footprint PC2 Capacitor_SMD:CP_Elec_6.3x5.4 @ 153.16,114.07 rot -90 layer "F.Cu" pads (1=+5V, 2=GNDD) uid 9a83ec4f-8dbf-43aa-b13d-27511f7a21b5
+footprint G*** LOGO @ 178.8,93.4 layer "F.Cu" pads () uid 9f50cd0a-824d-4ccd-a599-a0eb40390a03
+footprint U6 Package_TO_SOT_SMD:SOT-23-5 @ 149.58,107.37 layer "F.Cu" pads (1=+5V, 2=GNDD, 3=+5V, 4=unconnected-(U6-BP-Pad4), 5=Net-(U6-VOUT)) uid 9fce1869-985a-40aa-bd4f-c78a744d1c54
+footprint T1 Package_TO_SOT_SMD:SOT-23 @ 139.58,98.87 rot 180 layer "F.Cu" pads (1=Net-(T1-G), 2=+5V, 3=USBVCC) uid a364e9ba-0c80-4023-9d92-bb2df6af3ff1
+footprint D3 Diode_SMD:D_SOD-123 @ 139.33,80.77 rot -90 layer "F.Cu" pads (1=+5V, 2=Net-(D3-A)) uid a4a703d5-c910-4291-81bd-da9c29d03a84
+footprint J4 Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical @ 191.58,75.37 rot -90 layer "F.Cu" pads (1=Net-(J4-Pin_1), 2=Net-(J4-Pin_2), 3=Net-(J4-Pin_3), 4=Net-(J4-Pin_4), 5=Net-(J4-Pin_5), 6=Net-(J4-Pin_6), 7=Net-(J4-Pin_7), 8=Net-(J4-Pin_8)) uid b1408f43-af4c-42f7-bac0-e658e6ccf5b3
+footprint PC1 Capacitor_SMD:CP_Elec_6.3x5.4 @ 145.66,113.87 rot -90 layer "F.Cu" pads (1=Net-(D4-K), 2=GNDD) uid b5f1b99c-d92b-424d-b0fb-508f9bb0ee3c
+footprint G*** LOGO @ 179.58,87.37 layer "F.Cu" pads () uid c35437e3-4262-4e05-a946-9fe237d07581
+footprint RN1C1 Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder @ 140,85.2 layer "F.Cu" pads (1=Net-(D3-A), 2=+5V) uid c58ac684-6a3b-4a44-ac0a-318ac6dace0b
+footprint L1 Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder @ 136.58,75.47 rot -90 layer "F.Cu" pads (1=Net-(J1-Shield), 2=Net-(GND1-A)) uid cb5ef367-2970-4b5c-9ad4-75840f764715
+footprint U3 Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.3x3.3mm @ 147.6425,90.4325 rot 90 layer "F.Cu" pads (1=Net-(U3-XTAL1), 2=Net-(U3-PC0{slash}XTAL2), 3=GNDD, 4=+5V, 5=unconnected-(U3-PC2-Pad5), 6=unconnected-(U3-PD0-Pad6), 7=unconnected-(U3-PD1-Pad7), 8=Net-(U3-PD2), 9=Net-(U3-PD3), 10=Net-(RX1-K), 11=Net-(TX1-K), 12=unconnected-(U3-PD6-Pad12), 13=Net-(U3-~{HWB}{slash}PD7), 14=unconnected-(U3-PB0-Pad14), 15=Net-(D3-A), 16=Net-(J5-Pin_4), 17=Net-(J5-Pin_1), 18=Net-(J8-Pin_1), 19=Net-(J8-Pin_3), 20=Net-(J8-Pin_2), 21=Net-(J8-Pin_4), 22=unconnected-(U3-PC7-Pad22), 23=unconnected-(U3-PC6-Pad23), 24=Net-(J5-Pin_5), 25=unconnected-(U3-PC5-Pad25), 26=unconnected-(U3-PC4-Pad26), 27=Net-(U3-UCAP), 28=Net-(GND1-A), 29=/RD+, 30=/RD-, 31=USBVCC, 32=+5V, 33=GNDD) uid cee7b52e-19cf-4ad9-b65b-6b23a72f3725
+footprint J6 Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical @ 156.8,120.87 rot 90 layer "F.Cu" pads (1=unconnected-(J6-Pin_1-Pad1), 2=+5V, 3=Net-(D2-A), 4=+3V3(2), 5=+5V, 6=GNDD, 7=GNDD, 8=VIN(8)) uid cfbb7af0-10b7-4fd3-ac7c-cfac3ce934d9
+footprint U4 Package_DIP:DIP-28_W7.62mm @ 191.52,104.25 rot -90 layer "F.Cu" pads (1=Net-(D2-A), 2=Net-(J4-Pin_1), 3=Net-(J4-Pin_2), 4=Net-(J4-Pin_3), 5=Net-(J4-Pin_4), 6=Net-(J4-Pin_5), 7=+5V, 8=GNDD, 9=Net-(U4-XTAL1{slash}PB6), 10=Net-(U4-XTAL2{slash}PB7), 11=Net-(J4-Pin_6), 12=Net-(J4-Pin_7), 13=Net-(J4-Pin_8), 14=Net-(IOH1-Pin_1), 15=Net-(IOH1-Pin_2), 16=Net-(IOH1-Pin_3), 17=Net-(IOH1-Pin_4), 18=Net-(IOH1-Pin_5), 19=Net-(IOH1-Pin_6), 20=+5V, 21=AREF(21), 22=GNDD, 23=Net-(AD1-Pin_1), 24=Net-(AD1-Pin_2), 25=Net-(AD1-Pin_3), 26=Net-(AD1-Pin_4), 27=Net-(AD1-Pin_5), 28=SCI) uid d5c9d7e4-91f1-4e12-bf5f-26ff1a01ebd2
+footprint C11 Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder @ 158.5375,94.2 rot 180 layer "F.Cu" pads (1=GNDD, 2=Net-(U3-XTAL1)) uid daeb59b1-9b28-4a30-bf44-47c219d5f047
+footprint IOH1 Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical @ 168.32,75.37 rot -90 layer "F.Cu" pads (1=Net-(IOH1-Pin_1), 2=Net-(IOH1-Pin_2), 3=Net-(IOH1-Pin_3), 4=Net-(IOH1-Pin_4), 5=Net-(IOH1-Pin_5), 6=Net-(IOH1-Pin_6), 7=SCK, 8=Net-(IOH1-Pin_8), 9=AREF(21), 10=SCI) uid dff96b2b-1b05-4fd4-aeb8-098cf5dfe299
+footprint SW2 Button_Switch_SMD:SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010 @ 131.03,76.52 rot 90 layer "F.Cu" pads (1=Net-(D2-A), 2=GNDD) uid e5dffd99-7be6-4405-bed5-09fc0f45e024
+footprint U2 Package_TO_SOT_SMD:SOT-223-3_TabPin2 @ 134.23,106.87 rot 180 layer "F.Cu" pads (1=GNDD, 2=+5V, 3=Net-(D4-K)) uid edcb8be6-65e4-4c7a-b242-003dbe609b15
+footprint RX1 LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder @ 155.805,92.12 layer "F.Cu" pads (1=Net-(RX1-K), 2=Net-(RX1-A)) uid f941c15f-9c1b-4621-add8-be6e3ba5b73b
+footprint AD1 Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical @ 178.66,120.87 rot 90 layer "F.Cu" pads (1=Net-(AD1-Pin_1), 2=Net-(AD1-Pin_2), 3=Net-(AD1-Pin_3), 4=Net-(AD1-Pin_4), 5=Net-(AD1-Pin_5), 6=SCI) uid fc03f077-e8e9-4e7e-8587-c3d38112ec98
+footprint U5 Package_SO:MSOP-8_3x3mm_P0.65mm @ 146.08,102.87 layer "F.Cu" pads (1=Net-(T1-G), 2=+3V3(2), 3=/CMP, 4=GNDD, 5=SCK, 6=/13, 7=/13, 8=+5V) uid ffcedae0-ae43-46ef-84d0-7188b8714071
+zone net GNDD layers ("F.Cu", "B.Cu") polygon (125.6,71.6, 125.8,125.8, 199,125.6, 199.2,71.6) uid e102659f-b1a3-4cd9-a794-bf15f3fdcc86
+line 156.33,82.12 -> 192.33,82.12 layer "F.SilkS" width 0.1 stroke default uid 1fbd0d46-6172-4970-b829-f8f91de7f406
+line 159.33,115.12 -> 175.58,115.12 layer "F.SilkS" width 0.1 stroke default uid d3c8b0f3-864b-40fd-92ea-76e3b6f3b493
+line 177.58,115.12 -> 192.83,115.12 layer "F.SilkS" width 0.1 stroke default uid afc1311f-3679-442e-8ebc-6965d17415e7
+line 127.58,123.37 -> 127.58,73.37 layer "Edge.Cuts" width 0.05 stroke default uid 1505d764-0532-46b1-a4df-89fab8797868
+line 127.58,123.37 -> 194.08,123.37 layer "Edge.Cuts" width 0.05 stroke default uid 71154b29-082b-4675-abe1-142f0c34a176
+line 194.08,72.87 -> 127.58,73.37 layer "Edge.Cuts" width 0.05 stroke default uid 5d0d5667-be3d-448f-9c25-e6777f47df23
+line 194.08,79.87 -> 194.08,72.87 layer "Edge.Cuts" width 0.05 stroke default uid 1fa4bc14-5d60-406f-91eb-2236df6e6de3
+line 194.08,119.37 -> 197.58,115.87 layer "Edge.Cuts" width 0.05 stroke default uid 61e0183a-86f2-4eb1-bcf8-86e20b52bdb6
+line 194.08,123.37 -> 194.08,119.37 layer "Edge.Cuts" width 0.05 stroke default uid af48317c-b5db-4a64-95d3-c321fc79e7cd
+line 197.58,82.87 -> 194.08,79.87 layer "Edge.Cuts" width 0.05 stroke default uid 8e0ea6ee-c130-412d-88fa-01d6930ff400
+line 197.58,115.87 -> 197.58,82.87 layer "Edge.Cuts" width 0.05 stroke default uid 88c0df99-0554-4a01-918a-41dba2904d59
+circle center 139.58,121.87 end 140.58,121.37 layer "Edge.Cuts" width 0.05 stroke default fill no uid 8f286ca2-13b9-4c4a-9bf6-37b55430bff1
+circle center 141.58,74.87 end 142.58,74.37 layer "Edge.Cuts" width 0.05 stroke default fill no uid 2fe5f742-dd09-4311-8dda-58f1e1fb7641
+circle center 195.58,83.37 end 196.08,84.37 layer "Edge.Cuts" width 0.05 stroke default fill no uid c81c5c94-b932-4c5a-8f9f-301e09a3bf93
+circle center 196.08,115.37 end 197.08,114.87 layer "Edge.Cuts" width 0.05 stroke default fill no uid a23c3fb0-1165-45cc-95c5-1a89d09fa83f
+curve pts (160.8,80.8, 160.3,80.3, 161.3,80.05, 161.05,79.8) layer "F.SilkS" width 0.1 stroke default uid f478a399-11a7-4414-9e89-d2136234d323
+curve pts (163.2,80.6, 162.7,80.1, 163.7,79.85, 163.45,79.6) layer "F.SilkS" width 0.1 stroke default uid 37745712-51ce-4a8a-9051-61825c7bec89
+curve pts (165.8,80.2, 165.3,79.7, 166.3,79.45, 166.05,79.2) layer "F.SilkS" width 0.1 stroke default uid 9cbcb34d-ce7a-4fa7-a962-f14a1ed0b71d
+curve pts (176.25,80, 175.75,79.5, 176.75,79.25, 176.5,79) layer "F.SilkS" width 0.1 stroke default uid cd75b1ae-caa8-41e0-91ee-9446a893f1b6
+curve pts (179,80, 178.5,79.5, 179.5,79.25, 179.25,79) layer "F.SilkS" width 0.1 stroke default uid 3397c5aa-910c-4375-adbe-b21e569053d0
+curve pts (183.8,79.8, 183.3,79.3, 184.3,79.05, 184.05,78.8) layer "F.SilkS" width 0.1 stroke default uid e6618fdf-56b8-4d66-9ef4-814d27b1a1c8
+curve pts (187.6,81.45, 187.1,81.95, 186.85,80.95, 186.6,81.2) layer "F.SilkS" width 0.1 stroke default uid da887dce-0e1b-4b95-b705-b3d5ffba7395
+text "IOREF" @ 158.08,119.12 layer "F.SilkS" rot 90 font_size 1,0.6 font_thickness 0.15 justify left bottom uid cb555e99-1bb3-485b-b2bd-07dd2cec12bb
+text "RESET" @ 160.58,119.12 layer "F.SilkS" rot 90 font_size 1,0.6 font_thickness 0.15 justify left bottom uid e3923207-c466-47ab-93b2-2b63798bec7e
+text "WWW.ARDUINO.CC-MADE IN GHANA" @ 174.58,102.37 layer "F.SilkS" rot 0 font_size 1,0.7 font_thickness 0.175 justify left bottom uid a907958c-1ab9-42ca-a668-2b0ac3c7b917
+text "DIGITAL(PWM  )" @ 176.8,81.8 layer "F.SilkS" rot 0 font_size 1,1 font_thickness 0.2 justify left bottom uid 2bb867ab-f204-4780-a6da-8974a7e0fe13
+text "AREF" @ 151.4,81 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid d0114d62-02f9-4ce6-b335-d132d4a1ae08
+text "GND" @ 153.8,80.4 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid 5f9a388d-a70a-48c3-94fe-6f637ebcb010
+text "13" @ 156.4,79.4 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid f1048411-2039-48ac-8700-e4643161a450
+text "12" @ 158.8,79.2 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid 3a7f36cc-7640-4a86-befe-e8c605982cf2
+text "11" @ 161.4,79.4 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid 76bafb44-045f-4f8c-89a0-ec213dda935c
+text "3.3V" @ 163.08,118.87 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid 789865bc-f678-4021-98a3-a2c40de1398c
+text "10" @ 164,79.4 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid c1869b83-6249-4e00-a8bd-92304f7d91d8
+text "5V" @ 166.08,118.37 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid be1f69f7-d82c-4fa8-a321-d4b47129fd81
+text "9" @ 166.5,79 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid 33eb5574-ca2c-4230-b813-fcf66b9e9630
+text "8" @ 169,79 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid b2870e2a-5266-4a9d-8f9f-048acf5faf20
+text "GND" @ 169.08,118.87 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid de65b7b4-c9c8-43a2-960a-9bfbaebd418b
+text "GND" @ 172.08,118.87 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid dcabdc7a-8101-4ff4-a27c-77a68704d163
+text "7" @ 174.5,78.75 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid e0c4e7f1-5fbe-4dea-a32e-f148c29748cd
+text "6" @ 177,78.75 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid efc97ddc-b907-40e0-86ea-2e74880e0ba3
+text "A0" @ 179.08,118.87 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid 354a25d8-a503-4d09-a1c4-990eb329aef2
+text "5
+" @ 179.75,78.75 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid 5d4f5789-93c9-42ce-af39-dd33e5dcfeb6
+text "A1" @ 181.58,118.87 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid e39155f6-3331-4c83-b44c-fee16be9d03e
+text "4" @ 182.25,78.75 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid 696c127d-0bd9-40c9-8a69-844fb0b800e8
+text "A2" @ 184.33,118.87 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid a484fc16-53c9-403b-9668-528340948d0a
+text "3" @ 184.5,78.5 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid 51dcd0e6-502d-4d0b-abb5-f2db64901ea8
+text "A3" @ 186.83,118.87 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid a42da64f-df25-4a7b-bfa7-cf3f1c57b43f
+text "2" @ 187,78.5 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid 2c9ee540-7e71-45b9-950c-a08a29a971c4
+text "A4" @ 189.58,118.87 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid 643f3fb1-53e1-4dca-bfd7-779427ab2869
+text "TX-1" @ 190,81 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid f65986fd-e3bb-4706-a60f-ee423eff2799
+text "RX-0" @ 192.33,81.37 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid f4463121-4575-44f4-bb8f-cd2d7b7d6b05
+text "A5" @ 192.33,118.87 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.2 justify left bottom uid c902c4f9-48b6-48a2-8770-efac5e4383aa
+text "VIN" @ 175.08,118.62 layer "F.SilkS" rot 90 font_size 1,1 font_thickness 0.25 justify left bottom uid b16ac37a-cc9a-41a0-a9e3-e0a3487ea50d
